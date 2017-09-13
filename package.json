@@ -19,10 +19,10 @@
   "devDependencies": {
     "jasmine-core": "^2.3.4",
     "jspm": "^0.16.31",
-    "karma": "^0.12.33",
-    "karma-chrome-launcher": "^0.1.12",
-    "karma-jasmine": "^0.2.2",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
     "karma-jspm": "^2.0.1",
-    "karma-spec-reporter": "0.0.23"
+    "karma-spec-reporter": "0.0.31"
   }
 }
