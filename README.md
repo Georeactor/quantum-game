@@ -1,6 +1,8 @@
 Quantum Game
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Georeactor/quantum-game.svg)](https://greenkeeper.io/)
+
 Quantum Game - play with photons, superposition and entanglement. In your browser! With true quantum mechanics underneath!
 
 * Official address: http://quantumgame.io (initial beta released on 3 Jun 2016, http://play.quantumgame.io)
